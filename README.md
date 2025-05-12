@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently a sophomore studying Data Science and Supply Chain Operations at Washington University in St. Louis!
+I’m currently a junior studying Data Science and Supply Chain Operations at Washington University in St. Louis!
 
 I love skateboarding, nature, anime, and traveling!
 
